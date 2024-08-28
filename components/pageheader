@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Leona Whitmore's Lavish Woodpecker| "course" | "page"</title>
+    <link rel="stylesheet" type="text/css" href="styles/default.css">
+    
+  /* insert validator script here
+WEB115: <script src="https://lint.page/kit/67ff88.js" crossorigin="anonymous"></script>
+WEB250: <script src="https://lint.page/kit/880bd5.js" crossorigin="anonymous"></script> */
+
+</head>
+<body>
+
+     <header>
+			<h1>Leona Whitmore's Lavish Woodpecker | "course and page title" </h1>
+			<nav>
+			  <ul>
+				<li><a href="index.htm">Home</a></li>
+				<li><a href="introduction.html">Introduction</a></li>
+				<li><a href="contract.html">Contract</a></li>
+			 </ul>
+			</nav>
+      </header>
