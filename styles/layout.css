@@ -1,0 +1,54 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial Black', sans-serif;
+}
+
+/* Use both block and floating elements, Create a floated layout */
+img {
+  display: block;
+  float: right
+  margin: 10px auto;
+  height: auto;
+  width: auto;
+}
+
+ol {
+  text-align: center;
+  display: inline-block;
+}
+
+h1, h2 {
+  font-size: 20px;
+}
+ /* Create a grid layout */
+nav {
+   display:in-line grid;
+   float:left;
+   position: absolute;
+}
+
+/* Experiment with relative and absolute positioning */
+.footer {
+  padding: 60px 0px;
+  font-size:12px;
+  margin-bottom: 0;
+  margin-left: 20px;
+  position: relative;
+}
+
+/* Handle overflow */
+main {
+  overflow: auto;
+  }
+  
+ /* Implement responsive design to different screen widths using @media and flex/flexbox */
+@media only screen and (max-width: 480px) {
+  .page-title {
+    width: 270px;
+  }
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape){
+.page-title, .page-description {
+  float: left;
+    width: 20em;
+}
