@@ -1,9 +1,9 @@
 /*colors https://coolors.co/palettes/trending */
 
 html, body {
-  font-family: Arial, sans-serif;
-  background-color: #7b2cbf;
-  color: #ffdab9;
+  font-family: Monotype Corsiva, sans-serif;
+  background-color: #028090;
+  color: #fdfffc;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -13,8 +13,8 @@ html, body {
 }
 
 header {
-  background-color: #3c096c;
-  color: #ffdab9;
+  background-color: #05668d;
+  color: #fdfffc;
   padding: 20px;
 }
 
@@ -36,9 +36,9 @@ nav li {
 
 nav a {
   text-decoration: none;
-  color: #ffdab9; 
+  color: #fdfffc; 
   padding: 8px 15px;
-  background-color: #3c096c; 
+  background-color: #05668d; 
   border-radius: 5px;
 }
 
@@ -48,8 +48,8 @@ main {
 }
 
 .footer {
-  background-color: #FFFF;
-  color: #e0aaff;
+   background-color: #05668d;
+  color: #fdfffc;
   padding: 10px;
 }
 
@@ -71,7 +71,7 @@ a:hover {
 
 
 h2 {
-  color: #10002b;
+  color: #fdfffc;
   text-align: center;
   
 }
