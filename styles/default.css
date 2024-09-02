@@ -95,5 +95,13 @@ main {
   float: left;
     width: 20em;
 }
-
+/* =============================================
+   Mobile Styles
+   =============================================
+*/
+ section#custphone {
+      font-size: 1.1em;
+      line-height: 1.2em;
+      top: 40px;
+   }
 
